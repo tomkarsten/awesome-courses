@@ -6,12 +6,13 @@
 [Stats 202: Data Mning and Analysis (Stanford)](http://web.stanford.edu/class/stats202/intro.html)
 
 ## Machine Learning
+[15-488: Machine Learning in a Nutshell (CMU)](https://web2.qatar.cmu.edu/~gdicaro/15488/)
 
 [Learning From Data (Caltech)](https://work.caltech.edu/lectures.html)
 
-[CS 6787: Advanced Machine Learning Systems (Cornell)](https://www.cs.cornell.edu/courses/cs6787/2019fa/)
+[CS6787: Advanced Machine Learning Systems (Cornell)](https://www.cs.cornell.edu/courses/cs6787/2019fa/)
 
-[10-708 – Probabilistic Graphical Models (CMU)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
+[10-708: Probabilistic Graphical Models (CMU)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
 
 [CS224W: Machine Learning with Graphs (Stanford)](http://web.stanford.edu/class/cs224w/)
 
@@ -27,9 +28,9 @@
 
 [Stat212b: Topics Course on Deep Learning (Berkeley)](http://joanbruna.github.io/stat212b/)
 
-[STATS 385: Analyses of Deep Learning (Stanford)](https://stats385.github.io/lecture_slides)
+[STATS385: Analyses of Deep Learning (Stanford)](https://stats385.github.io/lecture_slides)
 
-[ECE 510: Deep Learning Theory and Practice (Portland State University)](http://web.cecs.pdx.edu/~willke/courses/EE510W20/)
+[ECE510: Deep Learning Theory and Practice (Portland State University)](http://web.cecs.pdx.edu/~willke/courses/EE510W20/)
 
 
 ## Reinforcement Learning
@@ -65,6 +66,6 @@
 
 [Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
 
-[CS224U: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/)
+[CS224u: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/)
 
 [CS11-747: Neural Networks for NLP (CMU)](http://www.phontron.com/class/nn4nlp2020/schedule.html)
