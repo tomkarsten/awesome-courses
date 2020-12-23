@@ -62,6 +62,8 @@
 [ADL4CV - Advanced Deep Learning for Computer Vision (TUM) :video_camera:](https://www.youtube.com/playlist?list=PLog3nOPCjKBkngkkF552-Hiwa5t_ZeDnh)
 
 ## Natural Language Processing
+[EN 601.468/668 Machine Translation (JHU)](http://mt-class.org/jhu/syllabus.html)
+
 [CS224n: Natural Language Processing with Deep Learning (Stanford)](http://web.stanford.edu/class/cs224n/)
 
 [Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
