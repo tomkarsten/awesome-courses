@@ -1,4 +1,4 @@
-# :sparkles: Awesome Machine Learning and AI Courses/Resources
+# 🎓 Awesome Machine Learning and AI Courses/Resources
 
 ## Data Mining
 [CS246: Mining Massive Data Sets (Stanford)](http://web.stanford.edu/class/cs246/index.html#content)
