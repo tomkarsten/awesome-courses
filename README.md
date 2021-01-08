@@ -17,7 +17,6 @@
 [CS224W: Machine Learning with Graphs (Stanford)](http://web.stanford.edu/class/cs224w/)
 
 ## Deep Learning
-
 [The Deep Learning Lecture Series 2020 (DeepMind)](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
 [Deep Learning (NYI Center for Data Science)](https://atcold.github.io/pytorch-Deep-Learning/)
@@ -32,6 +31,7 @@
 
 [ECE510: Deep Learning Theory and Practice (Portland State University)](http://web.cecs.pdx.edu/~willke/courses/EE510W20/)
 
+[UvA Deep Learning Course (University of Amsterdam)](https://uvadlc.github.io/)
 
 ## Reinforcement Learning
 [CS234: Reinforcement Learning (Stanford)](https://web.stanford.edu/class/cs234/)
