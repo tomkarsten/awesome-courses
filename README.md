@@ -40,6 +40,22 @@
 
 [Introduction to Reinforcement Learning (DeepMind)](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
+## Computer Vision
+[CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](https://cs231n.github.io/)
+
+[ADL4CV - Advanced Deep Learning for Computer Vision (TUM) :video_camera:](https://www.youtube.com/playlist?list=PLog3nOPCjKBkngkkF552-Hiwa5t_ZeDnh)
+
+## Natural Language Processing
+[EN 601.468/668 Machine Translation (JHU)](http://mt-class.org/jhu/syllabus.html)
+
+[CS224n: Natural Language Processing with Deep Learning (Stanford)](http://web.stanford.edu/class/cs224n/)
+
+[Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
+
+[CS224u: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/)
+
+[CS11-747: Neural Networks for NLP (CMU)](http://www.phontron.com/class/nn4nlp2020/schedule.html)
+
 ## Math
 
 [Linear Algebra (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
@@ -56,18 +72,6 @@
 
 [STAT 991: Topics in deep learning (UPenn)](https://github.com/dobriban/Topics-in-deep-learning)
 
-## Computer Vision
-[CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](https://cs231n.github.io/)
+## Computer Science
 
-[ADL4CV - Advanced Deep Learning for Computer Vision (TUM) :video_camera:](https://www.youtube.com/playlist?list=PLog3nOPCjKBkngkkF552-Hiwa5t_ZeDnh)
-
-## Natural Language Processing
-[EN 601.468/668 Machine Translation (JHU)](http://mt-class.org/jhu/syllabus.html)
-
-[CS224n: Natural Language Processing with Deep Learning (Stanford)](http://web.stanford.edu/class/cs224n/)
-
-[Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
-
-[CS224u: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/)
-
-[CS11-747: Neural Networks for NLP (CMU)](http://www.phontron.com/class/nn4nlp2020/schedule.html)
+[MIT 18.S191 Introduction to Computational Thinking (MIT)](https://computationalthinking.mit.edu/Spring21/)
