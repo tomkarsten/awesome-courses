@@ -50,7 +50,7 @@
 
 [CS224n: Natural Language Processing with Deep Learning (Stanford)](http://web.stanford.edu/class/cs224n/)
 
-[Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
+[Info 159/259: Natural Language Processing (UC Berkeley)](https://people.ischool.berkeley.edu/~dbamman/nlp21.html#syllabus)
 
 [CS224u: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/)
 
