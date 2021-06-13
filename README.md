@@ -33,6 +33,8 @@
 
 [UvA Deep Learning Course (University of Amsterdam)](https://uvadlc.github.io/)
 
+[CS W182: Designing, Visualizing and Understanding Deep Neural Networks (Berkeley)](https://cs182sp21.github.io/)
+
 ## Reinforcement Learning
 [CS234: Reinforcement Learning (Stanford)](https://web.stanford.edu/class/cs234/)
 
