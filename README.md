@@ -19,7 +19,7 @@
 ## Deep Learning
 [The Deep Learning Lecture Series 2020 (DeepMind)](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
-[Deep Learning (NYI Center for Data Science)](https://atcold.github.io/pytorch-Deep-Learning/)
+[Yann LeCun’s Deep Learning Course (NYI Center for Data Science)](https://cds.nyu.edu/deep-learning/)
 
 [INFO8010: Deep Learning (ULiège)](https://github.com/glouppe/info8010-deep-learning)
 
