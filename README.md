@@ -55,6 +55,7 @@
 
 * [Stanford - Machine Learning with Graphs (CS224W)](http://web.stanford.edu/class/cs224w/)
 
+* [Stanford - CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 
 ## Reinforcement Learning
 
