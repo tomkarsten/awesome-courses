@@ -1,6 +1,6 @@
 # 🎓 Awesome AI/ML Courses
 
-<img src="https://repository-images.githubusercontent.com/317979056/b1793d00-4dee-11eb-923a-0344f135d1ee" height="128px" align="right">
+<img src="https://repository-images.githubusercontent.com/557725652/59a85f5c-22df-4f08-806c-22ab76f82046" height="128px" align="right">
 
 ## Deep Learning
 
@@ -104,4 +104,5 @@
 
 ## Computer Science
 
+* :new::fire::fire::fire:  [Berkeley - **Data Structures (CS 61B)**](https://sp23.datastructur.es/)  
 * [MIT 18.S191 Introduction to Computational Thinking (MIT)](https://computationalthinking.mit.edu/Spring21/)
