@@ -75,6 +75,11 @@
 
 ## Natural Language Processing
 
+* :new::fire::fire::fire: [Stanford -**Transformers United V2**](https://web.stanford.edu/class/cs25/)
+  * Transformers | Language and Human Alignment | Emergent Abilities and Scaling in LLMs | Strategic Games | Robotics and Imitation Learning | In-Context Learning & Faithful Reasoning | Neuroscience-Inspired Artificial Intelligence 
+  * [:tv: Lectures](https://www.youtube.com/watch?v=XfpMkf4rD6E) 
+  * [:open_book: Slides/Lecture Notes](https://web.stanford.edu/class/cs25/)
+  
 * [EN 601.468/668 Machine Translation (JHU)](http://mt-class.org/jhu/syllabus.html)
 
 * [CS224n: Natural Language Processing with Deep Learning (Stanford)](http://web.stanford.edu/class/cs224n/)
