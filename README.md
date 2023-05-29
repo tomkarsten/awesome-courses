@@ -79,6 +79,10 @@
   * Transformers | Language and Human Alignment | Emergent Abilities and Scaling in LLMs | Strategic Games | Robotics and Imitation Learning | In-Context Learning & Faithful Reasoning | Neuroscience-Inspired Artificial Intelligence 
   * [:tv: Lectures](https://www.youtube.com/watch?v=XfpMkf4rD6E) 
   * [:open_book: Slides/Lecture Notes](https://web.stanford.edu/class/cs25/)
+
+* :new::fire::fire::fire: [Stanford - **Large Language Models (CS324)**](https://stanford-cs324.github.io/winter2022/)
+  * LLM Capabilities | Harms, Safety, and Ethics | LLM Data | Extracting Training Data | Objective Functions and Optimization | Scaling Laws | NLP architectures | Downstream Adaptation 
+  * [:open_book: Slides/Lecture Notes](https://stanford-cs324.github.io/winter2022/)
   
 * [EN 601.468/668 Machine Translation (JHU)](http://mt-class.org/jhu/syllabus.html)
 
